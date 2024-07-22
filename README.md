@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there, I'm Faiz
+## **Fullstack Engineer | CS Grad | Tech Enthusiast**
 
-### **Fullstack Engineer | CS Grad | Tech Enthusiast**
-
-I build stuff. I love tech.
+Hey there, I'm Faiz<br>
+I build stuff. I'm a tech enthusiast.
 
 📫 To connect: [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
