@@ -3,7 +3,7 @@
 Hey there, I'm Faiz.<br>
 I build stuff, break it, then fix it.
 
-📫 To connect: [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
+📫 Let's connect : [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
 
 
 <!--
