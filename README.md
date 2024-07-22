@@ -1,7 +1,7 @@
 ## **Fullstack Engineer | CS Grad | Tech Enthusiast**
 
 Hey there, I'm Faiz.<br>
-I build stuff, break it, then fix it.
+I like to build stuff, break it (intentionally,of course), then fix it.
 
 📫 Let's connect : [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
 
