@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **faiz877/faiz877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hey there, I'm Faiz
+
+**Fullstack Engineer | CS Grad | Tech Enthusiast**
+
+I build stuff. I love tech.
+
+📫 To connect: [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
