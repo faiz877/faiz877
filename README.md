@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hey there, I'm Faiz
 
-**Fullstack Engineer | CS Grad | Tech Enthusiast**
+### **Fullstack Engineer | CS Grad | Tech Enthusiast**
 
 I build stuff. I love tech.
 
