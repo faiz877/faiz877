@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 ## **Fullstack Engineer | CS Grad | Tech Enthusiast**
 
 Hey there, I'm Faiz<br>
-I build stuff. I'm a tech enthusiast.
+I build stuff. Breaking things, then fixing them.
 
 📫 To connect: [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
