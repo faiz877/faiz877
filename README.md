@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hey there, I'm Faiz
+# Hey there, I'm Faiz
 
 **Fullstack Engineer | CS Grad | Tech Enthusiast**
 
