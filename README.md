@@ -1,3 +1,11 @@
+## **Fullstack Engineer | CS Grad | Tech Enthusiast**
+
+Hey there, I'm Faiz.<br>
+I build stuff, break it, then fix it.
+
+📫 To connect: [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
+
+
 <!--
 **faiz877/faiz877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## **Fullstack Engineer | CS Grad | Tech Enthusiast**
 
-Hey there, I'm Faiz.<br>
-I build stuff. Breaking things, then fixing them.
-
-📫 To connect: [faiz74787@gmail.com](mailto:faiz74787@gmail.com)
