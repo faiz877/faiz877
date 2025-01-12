@@ -1,4 +1,4 @@
-## **Fullstack Engineer | CS Grad | Tech Enthusiast**
+## **Software Engineer | Tech Enthusiast**
 
 Hey there, I'm Faiz.<br>
 <!--I like to build stuff, break it (intentionally,of course), then fix it.-->
